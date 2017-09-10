@@ -838,7 +838,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505010101376</updated>
-      <workItem from="1505010112196" duration="8083000" />
+      <workItem from="1505010112196" duration="8653000" />
     </task>
     <task id="LOCAL-00001" summary="springMVC+spring+Mybatis+maven demo">
       <created>1505026047050</created>
@@ -858,10 +858,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8083000" />
+    <option name="totallyTimeSpent" value="8653000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
